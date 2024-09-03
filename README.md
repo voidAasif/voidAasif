@@ -18,7 +18,7 @@ I’m looking to collaborate on projects involving:
 - Database integration
 
 ## 📫 How to Reach Me
-[Your Email](mailto:your.email@example.com)
+[Gmail](mailto:aasifsaifi9280@gmail.com)
 
 ## 😄 Pronouns
 He/Him
