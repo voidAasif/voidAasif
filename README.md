@@ -14,6 +14,7 @@
 ## 💞️ Collaboration
 I’m looking to collaborate on projects involving:
 - Java Swing
+- Java AWT
 - Web development
 - Database integration
 - SQL
