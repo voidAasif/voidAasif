@@ -16,6 +16,8 @@ I’m looking to collaborate on projects involving:
 - Java Swing
 - Web development
 - Database integration
+- SQL
+- JDBC
 
 ## 📫 How to Reach Me
 [Contact](mailto:aasifsaifi9280@gmail.com)
