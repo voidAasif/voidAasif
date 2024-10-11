@@ -7,7 +7,6 @@
 
 ## 🌱 Currently Learning
 - SQL
-- JDBC
 - JavaScript
 - JavaFX
 
