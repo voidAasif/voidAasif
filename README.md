@@ -9,6 +9,7 @@
 - SQL
 - JavaScript
 - JavaFX
+- Spring Boot
 
 ## 💞️ Collaboration
 I’m looking to collaborate on projects involving:
