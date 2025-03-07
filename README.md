@@ -4,6 +4,7 @@
 - Java programming
 - System design
 - Web development
+- Backend Development
 
 ## 🌱 Currently Learning
 - SQL
@@ -13,6 +14,7 @@
 
 ## 💞️ Collaboration
 I’m looking to collaborate on projects involving:
+- Spring Boot
 - Java Swing
 - Java AWT
 - Web development
@@ -22,6 +24,7 @@ I’m looking to collaborate on projects involving:
 
 ## 📫 How to Reach Me
 [Contact](mailto:aasifsaifi9280@gmail.com)
+[Visit My Portfolio](https://voidaasif.github.io/aasif/ "Don't think, just click your mouse button!")
 
 ## 😄 Pronouns
 He/Him
