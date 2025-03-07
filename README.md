@@ -23,8 +23,9 @@ I’m looking to collaborate on projects involving:
 - JDBC
 
 ## 📫 How to Reach Me
-[Contact](mailto:aasifsaifi9280@gmail.com)
-[Visit My Portfolio](https://voidaasif.github.io/aasif/ "Don't think, just click your mouse button!")
+- [Contact](mailto:aasifsaifi9280@gmail.com)
+
+- [Visit My Portfolio](https://voidaasif.github.io/aasif/ "Don't think, just click your mouse button!")
 
 ## 😄 Pronouns
 He/Him
