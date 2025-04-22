@@ -6,12 +6,6 @@
 - Web development
 - Backend Development
 
-## 🌱 Currently Learning
-- SQL
-- JavaScript
-- JavaFX
-- Spring Boot
-
 ## 💞️ Collaboration
 I’m looking to collaborate on projects involving:
 - Spring Boot
